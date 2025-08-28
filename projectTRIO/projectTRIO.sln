@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projectTRIO", "projectTRIO\projectTRIO.vcxproj", "{35AA396D-E31D-479B-89FF-E0FBC76312A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Debug|x64.ActiveCfg = Debug|x64
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Debug|x64.Build.0 = Debug|x64
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Debug|x86.Build.0 = Debug|Win32
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Release|x64.ActiveCfg = Release|x64
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Release|x64.Build.0 = Release|x64
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Release|x86.ActiveCfg = Release|Win32
+		{35AA396D-E31D-479B-89FF-E0FBC76312A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D7028A-1C61-4510-B369-361AE9001245}
+	EndGlobalSection
+EndGlobal
